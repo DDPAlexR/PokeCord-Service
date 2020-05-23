@@ -15,4 +15,7 @@ A well run and easily configured PokeCord catching, spamming, and dueling servic
 2. Empty/Spam server with dozens of channels
 3. An email address
 
+**What you should do**:
+Contact me at `lilzingyflower@gmail.com`
+
 # Note: The first 2 hours is free for interested customers but for hosting more than that, you can pay 3$ a week.
