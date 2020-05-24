@@ -19,3 +19,4 @@ A well run and easily configured PokeCord catching, spamming, and dueling servic
 Contact me at `lilzingyflower@gmail.com`
 
 # Note: The first 2 hours is free for interested customers but for hosting more than that, you can pay 3$ a week.
+<meta name="google-site-verification" content="L21bPfxiqueDG0XGqvsgk8-_pX9RK38FIUbrFCMGzl8" />
