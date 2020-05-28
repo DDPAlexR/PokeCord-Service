@@ -18,7 +18,7 @@ A well run and easily configured PokeCord catching, spamming, and dueling servic
 **What you should do**:
 Contact me at `lilzingyflower@gmail.com`
 
-# Note: Offering a 1 week free service. The price ranges from 1$ a week to 3$ per weeks and more customizations.
+# Note: Offering a 1 week free service. The price ranges from 1$ a week to 3$ per weeks and more customizations, and 5$ a month with custom everything.
 
 **Customers so far?**: 0
 (Chance to provide a long free service)
