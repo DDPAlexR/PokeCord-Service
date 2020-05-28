@@ -22,3 +22,5 @@ Contact me at `lilzingyflower@gmail.com`
 
 **Customers so far?**: 0
 (Chance to provide a long free service)
+
+<meta name="google-site-verification" content="CoT8ivUhoBupmv4HtuWopj9jS2Z1r8YGnUU3HvZYao0" />
