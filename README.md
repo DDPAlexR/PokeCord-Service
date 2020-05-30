@@ -20,5 +20,5 @@ Contact me at `lilzingyflower@gmail.com`
 
 # Note: Offering a 1 week free service. The price ranges from 1$ a week to 3$ per weeks and more customizations, and 5$ a month with custom everything.
 
-**Customers so far?**: 0
-(Chance to provide a long free service)
+**Customers so far?**: 1
+(Have a chance to win a free long service)
